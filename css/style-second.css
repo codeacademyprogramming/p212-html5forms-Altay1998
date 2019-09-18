@@ -1,0 +1,142 @@
+body{
+    background-color: #48588C;
+}
+
+.form-part{
+    margin: auto;
+    width: 50%;
+    background-color: #454D60;
+}
+.inputs-style input{
+    display: inline-block;
+    width: 90%;
+    height: 40px;
+    margin-bottom: 10px;
+    background-color:#454C52;
+} 
+.social{
+    width: 92%;
+    
+    margin: auto;
+    margin-left: 50px;
+}
+.facebook{
+    display: inline-block;
+    background-color: #3D63C8;
+    width: 40%;
+    
+}
+.facebook a,.twitter a{
+    color: white;
+    font-size: 150%;
+    text-decoration: none;
+    vertical-align: top ;
+}
+.facebook i{
+    font-size: 130%;
+    background-color: #5772B2;
+}
+.twitter i{
+    font-size: 130%;
+    background-color: #3584CE;
+}
+.twitter{
+    display: inline-block;
+    background-color: #3182D3;
+    width: 45%;
+    margin-left: 90px;
+}
+    
+.inputs-style label i{
+    display: inline-block;
+    width: 5%;
+    margin-right: -4px;
+    padding: 4px 5px 2px 10px;
+    height: 30px;
+    font-size: 150%;
+    vertical-align: middle;
+    color: #41BA73;
+    
+}
+.inputs-style {
+    position: relative;
+}
+.inputs-style  .star{
+    position: absolute;
+    right: 30px;
+    top: 4px;
+}
+.login-btn{
+    width: 91%;
+    margin: auto;
+    margin-left: 50px;
+    
+}
+.login-btn input{
+    border: none;
+    width: 100%;
+    margin: auto;
+    background-color: #41BA73;
+    font-size: 150%;
+    padding: 5px 5px;
+    color: white;
+}
+.remember-me{
+    position: relative;
+    width: 90%;
+    padding: 20px;
+    margin: auto;
+
+}
+.remember-me a{
+    position: absolute;
+    right: 10px;
+    text-decoration: none;
+    color: white
+}
+.remember-me label{
+    color: white;
+}
+.form-footer{
+    margin-top: 30px;
+    background-color: #4E4A58;
+    width: 95%;
+    margin-left: -14px;
+    margin-bottom: -10px;
+    padding: 32px;
+    position: relative;
+}
+.form-footer input{
+    position: absolute;
+right: 30px;
+bottom: 10px;
+border: none;
+width: 20%;
+background-color: #41BA73;
+font-size: 150%;
+padding: 5px 5px;
+color: white;
+}
+.form-footer label{
+    color: white;
+    position: absolute;
+    left: 50px;
+    bottom: 23px;
+    font-size: 120%;
+}
+.sing-in{
+    border: none;
+
+}
+
+legend{
+   background-color:#4E4A58;
+   width: 98%;
+   margin-left: -14px;
+   margin-top: -6px;
+   padding: 20px;
+   margin-bottom: 10px;
+   text-align: center;
+   color: white;
+   font-size: 200%;
+}
